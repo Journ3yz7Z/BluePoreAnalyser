@@ -1,0 +1,55 @@
+{
+  "commit": "c849620433dc36fd1c78cc93f0aa33c32e5b8f54",
+  "files": [
+    {
+      "path": "LICENSE.md",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/LICENSE.md",
+      "sha256": "6b462d124ab407e8c802117a9a5d1b10b62a20f83853d70a3286e494ed6d2851"
+    },
+    {
+      "path": "src/modules/Segmenter/BayesianInferenceCLI/BayesianInferenceCLI.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/Segmenter/BayesianInferenceCLI/BayesianInferenceCLI.py",
+      "sha256": "95eb89c7332657db5d48720cc76eca30c8af79b7ce719056d744e613336d237b"
+    },
+    {
+      "path": "src/modules/Segmenter/Resources/models.json",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/Segmenter/Resources/models.json",
+      "sha256": "128f5d1580f2d07d5fd0a77a71fe6f717b6f976f3e68be4b797b52f851a9993e"
+    },
+    {
+      "path": "src/modules/PoreStats/Resources/models.json",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/PoreStats/Resources/models.json",
+      "sha256": "128f5d1580f2d07d5fd0a77a71fe6f717b6f976f3e68be4b797b52f851a9993e"
+    },
+    {
+      "path": "src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/models/README.md",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/models/README.md",
+      "sha256": "581dca295eefcaafc3a7cc08bcdf4e23b94dcd582aa9acdae11079541d50c61c"
+    },
+    {
+      "path": "src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/PoreSegmenter.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/PoreSegmenter.py",
+      "sha256": "c6f0784da70b67fa5db00e78aee7dfd34a30d0ca7ce0c7850b29b2c594fdce58"
+    },
+    {
+      "path": "src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/ForegroundSegmenter.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/ForegroundSegmenter.py",
+      "sha256": "557205492e73b6be428ddece9dd5f8622f0ca77d6a3fe41d14210ad707c38a63"
+    },
+    {
+      "path": "src/modules/Segmenter/MonaiModelsCLI/MonaiModelsCLI.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/Segmenter/MonaiModelsCLI/MonaiModelsCLI.py",
+      "sha256": "a09cbee423b46293d9a3f368fead50a6eab202cce190d4bb73cf030f64b33c82"
+    },
+    {
+      "path": "src/modules/Segmenter/SegmenterMethods/correlation_distance.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/Segmenter/SegmenterMethods/correlation_distance.py",
+      "sha256": "9cc8ec882529caec23d1e9f3ba34ff2c25c644ca9a57359cea1422bfa3dfaeb2"
+    },
+    {
+      "path": "src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/InspectorInstanceSegmenter.py",
+      "url": "https://raw.githubusercontent.com/petrobras/GeoSlicer/c849620433dc36fd1c78cc93f0aa33c32e5b8f54/src/modules/PoreStats/PoreStatsCLI/Libs/pore_stats/workflow/InspectorInstanceSegmenter.py",
+      "sha256": "028b750a6ebc4a3f56f9bf634c3bfa137c9fc38724394091aac9e23c888e5a46"
+    }
+  ]
+}

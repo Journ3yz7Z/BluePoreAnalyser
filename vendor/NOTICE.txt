@@ -1,0 +1,11 @@
+This application includes source code extracted from Petrobras GeoSlicer.
+Upstream repository: https://github.com/petrobras/GeoSlicer
+Commit: c849620433dc36fd1c78cc93f0aa33c32e5b8f54
+Source file: src/modules/Segmenter/BayesianInferenceCLI/BayesianInferenceCLI.py
+Extracted functions: create_stencil_mask, bayesian_inference.
+Upstream license: Apache License, Version 2.0 (included as LICENSE-GeoSlicer.txt).
+Original function bodies have been retained. Imports and calling interface
+have been separated from Slicer/VTK and limited to the supported 2D path.
+The Chinese GUI, tiling wrapper, project reference parameters, color and
+edge rules, uncertainty overlays, and report exporter are local additions.
+No official GeoSlicer pretrained weights are included.

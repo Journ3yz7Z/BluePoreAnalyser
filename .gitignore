@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+settings.json
+.env
+results/
+蓝色孔隙分析_*/
